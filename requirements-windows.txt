@@ -1,0 +1,6 @@
+# Windows x86-64, CPython 3.12.
+-r requirements-common.txt
+numpy==2.5.1
+scikit-learn==1.9.1
+onnxruntime==1.31.0
+notebook==7.6.1

@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+data/
+*.edf
+*.bdf
+*.fif
+validation/
+*.executed.ipynb
+*.zip
+.DS_Store
+Thumbs.db

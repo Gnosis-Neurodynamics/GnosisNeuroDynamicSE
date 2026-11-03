@@ -1,0 +1,17 @@
+# Shared public dependencies from the verified Python 3.12 environments.
+# Install together with the three private wheels using the README commands.
+mne==1.12.1
+mne-icalabel==0.9.0
+scipy==1.18.0
+pandas==2.3.3
+matplotlib==3.11.1
+Pillow==12.3.0
+joblib==1.5.3
+pyedflib==0.1.42
+fooof==1.1.1
+setuptools==81.0.0
+ipython==9.15.0
+ipykernel==7.3.0
+nbformat==5.10.4
+nbclient==0.11.0
+nbconvert==7.17.1
